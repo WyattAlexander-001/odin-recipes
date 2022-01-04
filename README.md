@@ -12,6 +12,9 @@ First assignment on "The Odin Project," under the HTML section in Foundations. T
     * touch index.html
         * Every start to a single project will have a few folders and an index.html. So it's best to just get that out of the way.
 
+* Deploy:
+    * GitHub pages is a simple way to share
+
 
 
 
